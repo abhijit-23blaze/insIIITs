@@ -1,6 +1,7 @@
 This is the site that hosts the isnIIITs newsletter
 
 TODO:
+0) add background shit
 1) add link shit
 2) add sound shit
 3) add sidebar and logo
