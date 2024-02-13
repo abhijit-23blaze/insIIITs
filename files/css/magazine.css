@@ -1,11 +1,22 @@
 body{
 	overflow:hidden;
-	background-color:#f0dbff;
+	background-color:#dbfffb;
 	margin:0;
 	padding:0;
 }
+/* .sidebar {
+	width: 200px;
+	background-color: #f0f0f0;
+	padding: 20px;
+	float: left;
+}
+.magazine-viewport {
+	float: left;
+	margin-left: 20px;  Adjust the margin to give space between sidebar and magazine 
+} */
 
 .magazine-viewport .container{
+	
 	position:absolute;
 	top:50%;
 	left:50%;
