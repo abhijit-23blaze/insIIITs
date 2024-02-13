@@ -1,6 +1,6 @@
 body{
 	overflow:hidden;
-	background-color:#e9caff;
+	background-color:#f0dbff;
 	margin:0;
 	padding:0;
 }
@@ -36,7 +36,7 @@ body{
 .magazine .region{
 	position:absolute;
 	overflow:hidden;
-	background:#0066FF;
+	background:#00ff15;
 	opacity:0.2;
 	-webkit-border-radius:10px;
 	-moz-border-radius:10px;
