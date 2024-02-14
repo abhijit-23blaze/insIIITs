@@ -1,8 +1,10 @@
 body{
 	overflow:hidden;
-	background-color:#ae00ff;
+	/* background-color:#ffffff; */
 	margin:0;
 	padding:0;
+	background-image: url("iiitsbg3.jpg");
+	background-size:cover;
 }
 /* .sidebar {
 	width: 200px;
